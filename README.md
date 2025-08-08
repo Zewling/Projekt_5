@@ -11,7 +11,7 @@ Jednoduchý správce úkolů napsaný v Pythonu, který využívá MySQL databá
 - pytest pro automatizované testování
 
 ## Požadavky
-- Nainstalovaný Python 3 (doporučeno 3.8+)
+- Nainstalovaný Python 3.13.2 (doporučeno od 3.8+)
 - MySQL server s vytvořenou databází `task_manager` (nebo `task_manager_test` pro testy)
 - Python balíčky: `mysql-connector-python`, `pytest` (instalace přes `pip install -r requirements.txt`)
 
