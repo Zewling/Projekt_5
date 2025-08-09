@@ -1,5 +1,5 @@
 """
-main_test.py: Čtvrtý projekt do Engeto Akademie Tester s Pythonem
+main_test.py: Pátý projekt do Engeto Akademie Tester s Pythonem
 
 author: Josef Věrovský
 email: pepa.verovsky@seznam.cz / josef.verovsky@outlook.com
