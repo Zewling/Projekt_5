@@ -1,4 +1,9 @@
+"""
+main.py: Pátý projekt do Engeto Akademie Tester s Pythonem
 
+author: Josef Věrovský
+email: pepa.verovsky@seznam.cz / josef.verovsky@outlook.com
+"""
 # Připojení k databázi
 import mysql.connector
 
